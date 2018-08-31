@@ -1,0 +1,4 @@
+#Sun Aug 26 03:12:16 IST 2018
+base.0=D\:\\react\\sandbox\\SqliteExample\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\react\\sandbox\\SqliteExample\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
